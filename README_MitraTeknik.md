@@ -45,7 +45,7 @@ Laporan ini disusun untuk menjawab empat pertanyaan bisnis utama:
  ├── 📑 2025_Strategic_Growth_Navigation.pdf         # Presentasi strategis 15 slide
  ├── 📄 Laporan_Analisis_Bisnis_MitraTeknik.pdf      # Laporan lengkap 21 halaman
  ├── 📊 MitraTeknik_Otomotif_Data_Portofolio.xlsx   # Dataset sumber (4 sheet)
- └── 📄 README.md
+ └── 📄 README_MitraTeknik.md
 ```
 
 ---
