@@ -304,10 +304,6 @@ Proyek ini saya kerjakan sebagai **studi kasus mandiri** untuk membangun portofo
 - 📄 Komunikasi insight kepada berbagai level audiens (laporan teknis + presentasi eksekutif)
 - 🛠️ Data storytelling — mengubah angka menjadi narasi bisnis yang actionable
 
-**Connect with me:**
-- 💼 [LinkedIn](https://linkedin.com/in/username)
-- 🐙 [GitHub](https://github.com/username)
-- 📧 email@example.com
 
 ---
 
