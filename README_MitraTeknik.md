@@ -321,4 +321,4 @@ Proyek ini bersifat open portfolio. Bebas digunakan sebagai referensi belajar. M
 
 *⭐ Jika proyek ini menginspirasi, silakan beri bintang!*
 
-*Last updated: Mei 2026 · Disusun oleh: Junior Business Analyst*
+*Last updated: Mei 2026 · Disusun oleh: Muhammad Rafi Fauzan*
